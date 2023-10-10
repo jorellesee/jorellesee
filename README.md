@@ -2,7 +2,7 @@
 
 **`Scholar-Athlete-Entrepreneur`**
 
-I'm a final year student majoring in Computer Engineering under the Engineering Scholarship at the National University of Singapore (NOC). I'm also a Team Singapore Athlete in the sport of Fencing, and I won a Bronze and a Silver at the 2022 and 2023 SEA Games. I'm currently based in Paris for the NUS Overseas Colleges entrepreneurship programme, where I'm working as a Data Scientist at an insurtech startup and picking up full-stack web development on the job. I'm currently working on a startup at the intersection of cognitive science and AI, so stay tuned! 
+I'm a final year student majoring in Computer Engineering under the Engineering Scholarship at the National University of Singapore (NOC). I'm also a Team Singapore Athlete in the sport of Fencing, and I won a Bronze and a [Silver](https://www.youtube.com/watch?v=6gwmzBBontA) at the 2022 and 2023 SEA Games. I'm currently based in Paris for the NUS Overseas Colleges entrepreneurship programme, where I'm working as a Data Scientist at [Parametriks](https://parametriks-site.super.site/) and picking up full-stack web development on the job. I'm currently also working on a startup at the intersection of cognitive science and AI, so stay tuned! 
    
 ---
 
