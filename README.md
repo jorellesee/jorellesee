@@ -23,3 +23,14 @@ I'm a final year student majoring in Computer Engineering under the Engineering 
 <br />
 
 #
+### 📊 Stats
+
+![Jorelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorellesee&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#
+
+<details>
+ <summary><h3>👨‍💻 Jorelle's Journey</h3></summary>
+   I started my tech journey as a naive computer engineering student at NUS, not really knowing what I wanted to do in life. There I acquired deep technical knowledge in both hardware and software aspects of computers, and quickly developed a passion for building things. This led to me becoming interested in entrepreneurship, as I wanted to make a living out of solving problems and turning my own vision into reality. I am currently building my own startup while on my internship in Paris (which still seems surreal to me). Stay tuned to see what I build!
