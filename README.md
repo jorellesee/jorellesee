@@ -1,4 +1,4 @@
-# 🏄‍♂️ Jorelle See
+# 🤺 Jorelle See
 
 **`Scholar-Athlete-Entrepreneur`**
 
