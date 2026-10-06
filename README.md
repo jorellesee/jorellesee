@@ -14,7 +14,7 @@ Computer Engineering (BEng) and Management (MSc) at NUS. Former Associate PM at 
 
 **Problem:** Make an embedded laser tag system feel like a game, not a lab demo. 
 **Approach:** Built the AR visualizer subsystem that renders game state live. 
-**Result:** ![CG4002 gif](CG4002.gif)
+**Result:** ![CG4002 gif](assets/CG4002.gif)
 
 ### Liaison: knowledge-graph language learning app
 
