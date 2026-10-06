@@ -20,7 +20,7 @@ Computer Engineering (BEng) and Management (MSc) at NUS. Former Associate PM at 
 
 **Problem:** Language apps optimize for streaks, not mastery. I hit that wall teaching myself French and wanted a tool that engineers real difficulty. 
 **Approach:** Vocabulary, grammar, phonology, morphology and pragmatics live in a Neo4j graph with prerequisite edges. Each learner has a per-node proficiency and spaced-repetition (FSRS) state. An LLM builds lessons and exercises just in time from the graph, and every interaction updates it. Cost fix: a bank of pre-generated, reviewed exercises for common nodes, with on-demand generation only for custom lessons or gaps.   
-**Result:** [Devpost submission] (https://devpost.com/software/liaison-oqkfgv)
+**Result:** [Devpost submission](https://devpost.com/software/liaison-oqkfgv)
 
 ### Off the keyboard
 
