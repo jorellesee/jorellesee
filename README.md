@@ -4,6 +4,19 @@ Product manager who ships. I take AI products from user problem to working code,
 Computer Engineering (BEng) and Management (MSc) at NUS. Former Associate PM at Workato. National fencer for Singapore. 
 
 ## Featured work
+
+### Liaison: knowledge-graph language learning app
+
+**Problem:** Language apps optimize for streaks, not mastery. I hit that wall teaching myself French and wanted a tool that engineers real difficulty. 
+**Approach:** Vocabulary, grammar, phonology, morphology and pragmatics live in a Neo4j graph with prerequisite edges. Each learner has a per-node proficiency and spaced-repetition (FSRS) state. An LLM builds lessons and exercises just in time from the graph, and every interaction updates it. Cost fix: a bank of pre-generated, reviewed exercises for common nodes, with on-demand generation only for custom lessons or gaps.   
+**Result:** [Devpost submission](https://devpost.com/software/liaison-oqkfgv)
+
+<p align="center">
+  <a href="(https://www.youtube.com/watch?v=eFFX3K8CNx0)">
+    <img src="https://img.youtube.com/vi/eFFX3K8CNx0/maxresdefault.jpg" alt="Watch the demo" width="600">
+  </a>
+</p>
+
 ### LLM recommendation engine (Workato)
 
 **Problem:** Users could not find relevant content in a large knowledge archive. 
@@ -20,18 +33,6 @@ Computer Engineering (BEng) and Management (MSc) at NUS. Former Associate PM at 
   <img src="assets/CG4002.gif" alt="CG4002 AR laser tag demo" width="600">
   <br>
   <sub><i>Testing footage of AR visualizer connected with hardware sensors</i></sub>
-</p>
-
-### Liaison: knowledge-graph language learning app
-
-**Problem:** Language apps optimize for streaks, not mastery. I hit that wall teaching myself French and wanted a tool that engineers real difficulty. 
-**Approach:** Vocabulary, grammar, phonology, morphology and pragmatics live in a Neo4j graph with prerequisite edges. Each learner has a per-node proficiency and spaced-repetition (FSRS) state. An LLM builds lessons and exercises just in time from the graph, and every interaction updates it. Cost fix: a bank of pre-generated, reviewed exercises for common nodes, with on-demand generation only for custom lessons or gaps.   
-**Result:** [Devpost submission](https://devpost.com/software/liaison-oqkfgv)
-
-<p align="center">
-  <a href="(https://www.youtube.com/watch?v=eFFX3K8CNx0)">
-    <img src="https://img.youtube.com/vi/eFFX3K8CNx0/maxresdefault.jpg" alt="Watch the demo" width="600">
-  </a>
 </p>
 
 ### Off the keyboard
