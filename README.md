@@ -3,3 +3,24 @@
 Product manager who ships. I take AI products from user problem to working code, and I care about the boring parts that make them hold up in production.
 
 Computer Engineering (BEng) and Management (MSc) at NUS. Former Associate PM at Workato. National fencer for Singapore. 
+
+## Featured work
+### LLM recommendation engine (Workato)
+
+Problem: Users could not find relevant content in a large knowledge archive. Approach: Recommendations generated from user profile and stated role. Weekly batch generation, with fallback to the previous run if a batch fails. Result: [metric: engagement, click-through, or activation lift] What I'd change: [one honest line about a tradeoff] Write-up · Architecture diagram
+
+### AR laser tag (NUS CG4002 capstone)
+
+Problem: Make an embedded laser tag system feel like a game, not a lab demo. Approach: Built the AR visualizer subsystem that renders game state live. Result: [demo GIF here] Repo · Demo video
+
+### Liaison: knowledge-graph language learning app
+
+Problem: Language apps optimize for streaks, not mastery. I hit that wall teaching myself French and wanted a tool that engineers real difficulty. Approach: Vocabulary, grammar, phonology, morphology and pragmatics live in a Neo4j graph with prerequisite edges. Each learner has a per-node proficiency and spaced-repetition (FSRS) state. An LLM builds lessons and exercises just in time from the graph, and every interaction updates it. Cost fix: a bank of pre-generated, reviewed exercises for common nodes, with on-demand generation only for custom lessons or gaps. Result: [demo GIF + one number, e.g. nodes in graph, exercises banked, or API cost reduction] What I'd change: [one honest line] Repo · Live demo · Schema write-up
+
+### Off the keyboard
+
+Fencing since age 7. Represented Singapore at U17, U20, Open Asian and World Championships. SEA Games bronze (2022) and silver (2023). Competing taught me to review losses honestly and iterate fast, which is most of product work.
+
+### Stack
+
+Python · TypeScript · LLM APIs · embedded systems · SQL
