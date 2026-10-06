@@ -34,11 +34,3 @@ Computer Engineering (BEng) and Management (MSc) at NUS. Former Associate PM at 
   <br>
   <sub><i>Testing footage of AR visualizer connected with hardware sensors</i></sub>
 </p>
-
-### Off the keyboard
-
-Fencing since age 7. Represented Singapore at U17, U20, Open Asian and World Championships. SEA Games bronze (2022) and silver (2023). Competing taught me to review losses honestly and iterate fast, which is most of product work.
-
-### Stack
-
-Python · TypeScript · LLM APIs · embedded systems · SQL
